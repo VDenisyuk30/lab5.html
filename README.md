@@ -58,9 +58,8 @@
    <div id="header">Сайт-звіт до лабораторних робіт студентки 1 курсу групи "математики" Денисюк Валерії</div>
   <div id="content">
    
-<h2>Звіт до лабораторної роботи №5. Тема - Презентація</h2> 
-<p>2. Індивідуальне завдання <img src="Лаб4.Денисюк" alt="завдання"> </p> 
-<p>3. <iframe src="Денисюк4лаб.pdf" width="500" height="700"></iframe></p>
+<h2>Звіт до лабораторної роботи №5. Тема - Презентація</h2>  
+<p>3. <iframe src="Денисюк.лаб5.pdf" width="500" height="700"></iframe></p>
 <p>4. <a href="https://drive.google.com/file/d/1RxtW-HuzBFXx19eAnr3xg2mz9wFaW_iF/view?usp=sharing">Посилання на Гугл диск</a></p>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHvXuaKKUqzEOLCOvdVDc2u1vCEM7ETWj1ZONodqoeVoeV9A49JErKpSwxu2bCJTOiyxbVcSzN0D0D/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
